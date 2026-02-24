@@ -1,0 +1,53 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Spartak — Backend Engineer (T-shaped + Dev)</title>
+  <desc id="desc">Portfolio banner with geometric gradient background and engineering themed accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B132B"/>
+      <stop offset="0.5" stop-color="#1C2541"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="920" y1="-20" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <circle cx="1090" cy="90" r="190" fill="url(#accent)"/>
+
+  <g stroke="rgba(255,255,255,0.15)" stroke-width="1.4">
+    <path d="M830 70H1220"/>
+    <path d="M830 120H1180"/>
+    <path d="M830 170H1220"/>
+    <path d="M830 220H1160"/>
+    <path d="M830 270H1200"/>
+    <path d="M900 30V320"/>
+    <path d="M980 30V320"/>
+    <path d="M1060 30V320"/>
+    <path d="M1140 30V320"/>
+  </g>
+
+  <g>
+    <rect x="70" y="78" width="188" height="42" rx="10" fill="rgba(255,255,255,0.12)"/>
+    <text x="90" y="104" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">PORTFOLIO</text>
+
+    <text x="70" y="175" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Spartak</text>
+    <text x="70" y="226" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600">Backend Engineer • T-shaped + Dev</text>
+
+    <text x="70" y="284" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+      Kotlin • Go • Linux • Cloud Infrastructure • Security
+    </text>
+  </g>
+
+  <g fill="none" stroke="#7DD3FC" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+    <path d="M705 96l20-20 20 20"/>
+    <path d="M775 96h70"/>
+    <path d="M705 150l20 20 20-20"/>
+    <path d="M775 150h120"/>
+    <path d="M705 204h40"/>
+    <path d="M775 204h90"/>
+    <path d="M705 258h70"/>
+    <path d="M805 258h60"/>
+  </g>
+</svg>
