@@ -8,11 +8,9 @@
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20Engineering-1C2541?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="assets/me.jpg" alt="Spartak" width="170" />
-</p>
-
 ## Hi, I am Spartak
+
+<img src="assets/me.jpg" alt="Spartak" width="145" align="left" style="margin: 0 16px 8px 0;" />
 
 I live in a small town in the south of Russia, in Elista, together with my beloved wife, our wonderful children, and our ginger cat.
 In my free time, I enjoy cycling outside the city, traveling with my family, and working on small engineering projects together with my children.
@@ -21,6 +19,8 @@ reading documentation, electronics, soldering, and programming.
 
 My journey into computer science began in 1992, when I was in the first grade and first saw an IBM PC based on an Intel 80286 processor. That moment made a strong impression on me,
 and I knew I wanted to become a programmer.
+
+<br clear="left" />
 
 At the age of 13, I assembled my first computer built around a Celeron 333A processor.
 A year later, I wrote my first program in Turbo Pascal 7.0.
