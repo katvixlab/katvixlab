@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Spartak | Backend Engineer (T-shaped + Dev)" width="100%" />
+  <img src="assets/banner.svg" alt="Spartak | Backend Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,49 +8,62 @@
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20Engineering-1C2541?style=for-the-badge">
 </p>
 
-## Hi, I am Spartak
+## 👋 Hi, I’m Spartak
 
-<img src="assets/me.jpg" alt="Spartak" width="145" align="left" style="margin: 0 16px 8px 0;" />
-
-I live in a small town in the south of Russia, in Elista, together with my beloved wife, our wonderful children, and our ginger cat.
-In my free time, I enjoy cycling outside the city, traveling with my family, and working on small engineering projects together with my children.
-Through these projects, they get hands-on experience with core engineering concepts:
+I live in a small town in the south of Russia, in Elista, together with my beloved wife,  
+our wonderful children, and our ginger cat.  
+In my free time, I enjoy cycling outside the city, traveling with my family,  
+and working on small engineering projects together with my children.  
+Through these projects, they get hands-on experience with core engineering concepts —  
 reading documentation, electronics, soldering, and programming.
 
-My journey into computer science began in 1992, when I was in the first grade and first saw an IBM PC based on an Intel 80286 processor. That moment made a strong impression on me,
-and I knew I wanted to become a programmer.
+My journey into computer science began in 1992, when I was in the first grade and first saw  
+an IBM PC based on an Intel 80286 processor. That moment made a strong impression on me —  
+I knew then that I wanted to become a programmer.
 
-<br clear="left" />
-
-At the age of 13, I assembled my first computer built around a Celeron 333A processor.
-A year later, I wrote my first program in Turbo Pascal 7.0.
-At 17, I graduated from Elista Polytechnic College with a specialization in computer programming, computer hardware, and automated systems software,
+At the age of 13, I assembled my first computer built around a Celeron 333A processor.  
+A year later, I wrote my first program in Turbo Pascal 7.0.  
+At 17, I graduated from Elista Polytechnic College with a specialization in  
+computer programming, computer hardware, and automated systems software,  
 and soon after started my first job as a programmer.
 
 That marked the beginning of my professional career in IT.
 
-Alongside practical work, I continue my academic development.
-I am currently pursuing a Master's degree at ITMO University,
-at the Institute of Applied Computer Science, in the field of Cloud Engineering.
+Alongside my practical work, I continue my academic development.  
+I am currently pursuing a Master’s degree at ITMO University,  
+at the Institute of Applied Computer Science,  
+in the field of **Cloud Engineering**.
 
-My Master's thesis focuses on the security of containerized systems and software supply chains.
-The `contain-sentry` project is the practical part of this work and is used
+My Master’s thesis focuses on the security of containerized systems  
+and software supply chains.  
+The **contain-sentry** project is the practical part of this work and is used  
 to research and formalize security checks for container builds.
 
-## Snapshot
+---
 
-- Current role: Infrastructure and Platform Engineering at MWS Cloud (backend focus, platform engineering, T-shaped profile)
-- Academic track: Master's degree at ITMO University, Cloud Engineering
-- Master's thesis: Development of a methodology for creating and operating secure containers
-- Practical research project: `contain-sentry`
+## 💼 What I do now
 
-## Core Expertise
+I currently work at **MWS Cloud**,  
+in a team focused on infrastructure and platform engineering.
 
-- Backend engineering: API design, service architecture, distributed systems
-- Platform engineering: provisioning, node lifecycle automation, reliability
-- DevOps: Docker, Kubernetes, Terraform, GitHub Actions, CI/CD pipelines
-- Security: container hardening, policy-as-code, software supply-chain control
+I work on systems written in **Kotlin and Go**  
+that automate the transformation of **bare metal servers**  
+into fully managed nodes integrated into a cloud platform.
 
+My work sits at the intersection of backend development, infrastructure,  
+and platform engineering, and includes automating node lifecycle management,  
+working closely with Linux systems, and building services  
+that ensure the reliability and manageability of cloud infrastructure.
+
+I enjoy working close to the system and understanding how things work under the hood —  
+from bare metal provisioning and node bootstrapping  
+to containers, networking, and CI/CD processes.
+
+### Areas of interest
+- Backend engineering: Java, Kotlin, Go
+- DevOps & infrastructure: Docker, CI/CD, IaC, Kubernetes
+
+---
 ## Projects
 
 - [`contain-sentry`](https://github.com/katvixlab/contain-sentry): Security checks for Dockerfiles and container builds (policy-as-code)
@@ -58,10 +71,12 @@ to research and formalize security checks for container builds.
 - [`CoachDesk`](https://github.com/katvixlab/otus-kotlin-homework): Kotlin backend for a fitness coach CRM
 - [`Kittygram`](https://github.com/katvixlab/bonus2k-cloud-services-engineer-vm-kittygram-final): Microservices app with Terraform-based delivery and CI/CD
 
+---
 ## Technology Stack
 
 `Go` `Kotlin` `Java` `Linux` `Docker` `Kubernetes` `Terraform` `Ansible` `GitHub Actions`
 
+---
 ## Contacts
 
 - Telegram: [@snkatvit](https://t.me/snkatvit)
