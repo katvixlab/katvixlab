@@ -14,38 +14,32 @@
 
 ## Hi, I am Spartak
 
-I live in a small town in the south of Russia, in Elista, together with my beloved wife,  
-our wonderful children, and our ginger cat.  
-In my free time, I enjoy cycling outside the city, traveling with my family,  
-and working on small engineering projects together with my children.  
-Through these projects, they get hands-on experience with core engineering concepts:  
+I live in a small town in the south of Russia, in Elista, together with my beloved wife, our wonderful children, and our ginger cat.
+In my free time, I enjoy cycling outside the city, traveling with my family, and working on small engineering projects together with my children.
+Through these projects, they get hands-on experience with core engineering concepts:
 reading documentation, electronics, soldering, and programming.
 
-My journey into computer science began in 1992, when I was in the first grade and first saw  
-an IBM PC based on an Intel 80286 processor. That moment made a strong impression on me,  
+My journey into computer science began in 1992, when I was in the first grade and first saw an IBM PC based on an Intel 80286 processor. That moment made a strong impression on me,
 and I knew I wanted to become a programmer.
 
-At the age of 13, I assembled my first computer built around a Celeron 333A processor.  
-A year later, I wrote my first program in Turbo Pascal 7.0.  
-At 17, I graduated from Elista Polytechnic College with a specialization in  
-computer programming, computer hardware, and automated systems software,  
+At the age of 13, I assembled my first computer built around a Celeron 333A processor.
+A year later, I wrote my first program in Turbo Pascal 7.0.
+At 17, I graduated from Elista Polytechnic College with a specialization in computer programming, computer hardware, and automated systems software,
 and soon after started my first job as a programmer.
 
 That marked the beginning of my professional career in IT.
 
-Alongside practical work, I continue my academic development.  
-I am currently pursuing a Master's degree at ITMO University,  
+Alongside practical work, I continue my academic development.
+I am currently pursuing a Master's degree at ITMO University,
 at the Institute of Applied Computer Science, in the field of Cloud Engineering.
 
-My Master's thesis focuses on the security of containerized systems  
-and software supply chains.  
-The `contain-sentry` project is the practical part of this work and is used  
+My Master's thesis focuses on the security of containerized systems and software supply chains.
+The `contain-sentry` project is the practical part of this work and is used
 to research and formalize security checks for container builds.
 
 ## Snapshot
 
-- Current role: Infrastructure and Platform Engineering at MWS Cloud  
-  (backend focus, platform engineering, T-shaped profile)
+- Current role: Infrastructure and Platform Engineering at MWS Cloud (backend focus, platform engineering, T-shaped profile)
 - Academic track: Master's degree at ITMO University, Cloud Engineering
 - Master's thesis: Development of a methodology for creating and operating secure containers
 - Practical research project: `contain-sentry`
